@@ -1,0 +1,17 @@
+.main h1{
+    color: green;
+}
+.main p{
+    color: red;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    background-color: aquamarine;
+    padding: 10px;
+
+}
+nav a{
+    text-decoration: none;
+}
